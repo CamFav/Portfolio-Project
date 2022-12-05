@@ -2,7 +2,7 @@
 
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/soniangn/)](https://github.com/CamilleFavriel/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/camillefavriel/)](https://www.linkedin.com/in/camillefavriel)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/camille-favriel/)](https://www.linkedin.com/in/camille-favriel)
 
 ### A little about me...
 I'm a **software engineer student** @holbertonschool, in Toulouse, France.
@@ -19,4 +19,5 @@ I'm a **software engineer student** @holbertonschool, in Toulouse, France.
 - 💅 Designed: 
 
 [_printf](https://github.com/AymericLPR/holbertonschool-printf)
-[hsh](https://github.com/HugoCLI/holbertonschool-shell)
+
+[hsh](https://github.com/HugoCLI/holbertonschool-simple_shell)
